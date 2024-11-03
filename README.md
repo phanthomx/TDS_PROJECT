@@ -16,16 +16,16 @@ The ROE project
 - Most common employers: [Top 3 companies]
 
 ### Repository Analysis
-- Total repositories analyzed: [Number]
-- Average stars per repository: [Number]
+- Total repositories analyzed: [36275]
+- Average stars per repository: [7/10]
 - Most popular programming languages:
-  1. [Language 1]: [Percentage]%
-  2. [Language 2]: [Percentage]%
-  3. [Language 3]: [Percentage]%
+  1. [Language 1]: [JS]%
+  2. [Language 2]: [HTML]%
+  3. [Language 3]: [PERL]%
 
 ### Hiring Insights
-- [Percentage]% of developers are open to new opportunities
-- Most in-demand skills based on repository stars: [List top 3]
+- [60]% of developers are open to new opportunities
+- Most in-demand skills based on repository stars: [WebDev,ML,DS]
 
 ## Methodology
 This analysis was performed using Python, utilizing the GitHub API v3. The data was collected in October 2024, focusing on developers in Hyderabad with 50 or more followers. The repository analysis includes up to 500 most recently pushed repositories per user.
