@@ -19,9 +19,9 @@ The ROE project
 - Total repositories analyzed: [36275]
 - Average stars per repository: [7/10]
 - Most popular programming languages:
-  1. [Language 1]: [JS]%
-  2. [Language 2]: [HTML]%
-  3. [Language 3]: [PERL]%
+  1. Language 1: JS
+  2. Language 2: HTML
+  3. Language 3: PERL
 
 ### Hiring Insights
 - [60]% of developers are open to new opportunities
