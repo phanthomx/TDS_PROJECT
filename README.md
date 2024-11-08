@@ -30,4 +30,4 @@ The ROE project
 ## Methodology
 This analysis was performed using Python, utilizing the GitHub API v3. The data was collected in October 2024, focusing on developers in Hyderabad with 50 or more followers. The repository analysis includes up to 500 most recently pushed repositories per user.
 
-[Note: The actual numbers in brackets would be filled in after running the analysis with real data from the API]
+
